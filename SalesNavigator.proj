@@ -1,0 +1,19 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  
+  <!-- Definición de propiedades -->
+  <PropertyGroup>
+    <!-- Ruta al ejecutable de Ranorex -->
+    <RanorexExePath>C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\bin\Debug\Qualis-Bot-SalesNavigator.exe</RanorexExePath>
+    <!-- Ruta al archivo de proyecto de Ranorex -->
+    <RanorexProjectPath>C:\Path\To\Your\TestSuite.rxslt</RanorexProjectPath>
+    <!-- Otras propiedades personalizadas si es necesario -->
+  </PropertyGroup>
+
+  <!-- Definición de objetivo para ejecutar pruebas de Ranorex -->
+<Target Name="RunRanorexTests">
+    <!-- Ejecutar solo el caso de prueba "1°Step_SalesNavigator" -->
+    <Exec Command='"$(RanorexExePath)" /test:"1°Step_SalesNavigator"' />
+</Target>
+
+
+</Project>

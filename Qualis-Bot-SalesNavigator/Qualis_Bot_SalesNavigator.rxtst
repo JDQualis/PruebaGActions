@@ -281,11 +281,12 @@
 				</conditiongroup>
 			</smartfoldernode>
 			<testcase
+			datarangeactive="True"
 			datasource="InputEmpresas"
 			errorbehavior="ContinueNextIteration"
 			id="4aa8448c-ebf2-40c4-bf14-0ec99cc1a0fa"
-			maxrange="3"
-			minrange="3"
+			maxrange="0"
+			minrange="0"
 			name="1°Step_SalesNavigator">
 				<description>
 					<![CDATA[<p>Version 4.0</p>]]>
@@ -340,11 +341,12 @@
 				</missingdatabinding>
 			</testmodule>
 			<smartfoldernode
+			datarangeactive="True"
 			datasource="InputKeyword"
 			errorbehavior="ContinueNextIteration"
 			id="51e0a822-81c9-485d-a639-c9f358f25d89"
-			maxrange="6"
-			minrange="6"
+			maxrange="0"
+			minrange="0"
 			name="CriteriosDeFiltros">
 				<parameters>
 					<param
@@ -962,7 +964,7 @@
 		filename="InputKeyword.xlsx"
 		id="0860cff3-b338-4069-9f71-97637931cc1e"
 		includefile="Checked"
-		lastknownrowcount="112"
+		lastknownrowcount="91"
 		name="InputKeyword"
 		type="Ranorex.Core.Data.ExcelDataConnector"
 		worksheetname="DatosCandidatos"
