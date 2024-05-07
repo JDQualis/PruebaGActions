@@ -79,7 +79,7 @@ public static Qualis_Bot_SalesNavigatorRepository repo = Qualis_Bot_SalesNavigat
                 Validate.AttributeEqual(repo.InicioSalesNavigator.ValidacionNombreEmpresaIndustriaInfo, "InnerText", nombreEmpresa, null, new Validate.Options(){ReportLevelOnFailure=ReportLevel.Info});
              
                     // Aquí entra si el elemento se encuentra
-   				Report.Info($"El nombre de la empresa es: {nombreEmpresa}");
+   				Report.Info("El nombre de la empresa es: {nombreEmpresa}");
     			encontroEmpresa = "True";
     			Report.Info("El valor del parametro encontroEmpresa es: " + encontroEmpresa);
            

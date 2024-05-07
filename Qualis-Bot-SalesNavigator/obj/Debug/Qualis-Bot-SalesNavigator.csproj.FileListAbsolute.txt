@@ -79,8 +79,8 @@ C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-S
 C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\bin\Debug\Qualis-Bot-SalesNavigator.exe
 C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\bin\Debug\Qualis-Bot-SalesNavigator.pdb
 C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\bin\Debug\Ranorex.Core.Resolver.dll
-C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.csproj.AssemblyReference.cache
-C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.csproj.CoreCompileInputs.cache
-C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.csproj.CopyComplete
 C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.exe
 C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.pdb
+C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.csproj.AssemblyReference.cache
+C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-Bot-SalesNavigator.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz Diana\Documents\GitHub\SalesBotPRUEBASGITACTIONS\Qualis-Bot-SalesNavigator\obj\Debug\Qualis-B.8F023D14.Up2Date

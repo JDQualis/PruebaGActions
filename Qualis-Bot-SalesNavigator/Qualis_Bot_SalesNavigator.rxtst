@@ -981,7 +981,7 @@
 		filename="C:\TEMP\OutputEmpresas.xlsx"
 		id="ac8ba090-df6e-4a7d-9a33-39d0c80b9c45"
 		includefile="Unchecked"
-		lastknownrowcount="37"
+		lastknownrowcount="96"
 		name="OutputEmpresas"
 		type="Ranorex.Core.Data.ExcelDataConnector"
 		worksheetname="DatosFiltrados"

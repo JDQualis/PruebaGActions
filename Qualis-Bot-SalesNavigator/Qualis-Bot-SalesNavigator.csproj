@@ -470,18 +470,6 @@
       <UserCode>true</UserCode>
       <id>97e70f84-342e-4f22-b6a2-f9e707a567aa</id>
     </Compile>
-    <Compile Include="ValidacionEmpresaEIndustria.cs">
-      <BoundTo>900fbf63-23f6-4c91-a739-d62f6b34b6a8</BoundTo>
-      <DependentUpon>ValidacionEmpresaEIndustria.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>26da37d6-36e0-41eb-bcff-d634d6c6e075</id>
-    </Compile>
-    <Compile Include="ValidacionEmpresaEIndustria.UserCode.cs">
-      <BoundTo>900fbf63-23f6-4c91-a739-d62f6b34b6a8</BoundTo>
-      <DependentUpon>ValidacionEmpresaEIndustria.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>6834bd20-9b12-4fa5-ad9f-b3ac494122ef</id>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">
@@ -631,11 +619,6 @@
       <BoundTo>a64d14ba-046f-4b17-9dea-ba676e89a38f</BoundTo>
       <id>9c37f844-c541-4b18-9b32-c2f8df078bfc</id>
       <recordtableid>bcad91d7-5667-42ee-a158-37a481569576</recordtableid>
-    </None>
-    <None Include="ValidacionEmpresaEIndustria.rxrec">
-      <BoundTo>a64d14ba-046f-4b17-9dea-ba676e89a38f</BoundTo>
-      <id>900fbf63-23f6-4c91-a739-d62f6b34b6a8</id>
-      <recordtableid>c167697a-3c37-4cbf-a1cf-93f7b333bd9b</recordtableid>
     </None>
   </ItemGroup>
   <ItemGroup>
