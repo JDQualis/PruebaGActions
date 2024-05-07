@@ -1,10 +1,11 @@
 ﻿<Properties>
   <Array name="active">
-    <Element value="Qualis_Bot_SalesNavigator.rxtst" />
+    <Element value="ValidarEmpresaIndustriaCM.cs" />
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
     <Element value="Qualis_Bot_SalesNavigator.rxtst" />
+    <Element value="ValidarEmpresaIndustriaCM.cs" />
   </Array>
   <Properties name="projectSavedData">
     <Properties name="customTool">
